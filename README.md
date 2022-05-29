@@ -1,1 +1,0 @@
-# Weight-Measurement-using-Loadcell
